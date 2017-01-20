@@ -1,1 +1,1 @@
-## Udemy Complete React (Andrew Mead) - Timer Application
+### Udemy Complete React Course - Timer Application
