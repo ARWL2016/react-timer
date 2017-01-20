@@ -2,7 +2,6 @@
     background-color: $nav-background; 
 }
 
-
 .top-bar {
     .menu-text {
         color: $nav-text-color; 
@@ -12,6 +11,12 @@
         display: inline; 
         padding: 0; 
     }
+
+    .active-link {
+    font-weight: bold; 
+    }   
 }
+
+
 
 
