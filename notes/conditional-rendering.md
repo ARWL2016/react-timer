@@ -1,23 +1,5 @@
-`var Controls = React.createClass({
-  propTypes: {
-    countdownStatus: React.PropTypes.string.isRequired
-  }, 
-  render: function () {
-    var {countdownStatus} = this.props; 
-    var renderStartStopButton = () => {
-      if (countdownStatus === 'started') {
-        return <button className="button secondary">Paused</button>
-      } else if (countdownStatus === 'paused') {
-        return <button className="button primary">Start</button>
-      }
-  }; 
+Controls.jsx
+Countdown.jsx
 
-    return (
-      <div className="controls">
-        {renderStartStopButton()}
-        <button className="button alert hollow">Clear</button>
-      </div>
-      
-    )
-  }
-});`
+1. Create a function inside the render
+2. Call the function inside the return statement in {}
