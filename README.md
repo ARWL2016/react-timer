@@ -7,7 +7,7 @@ https://github.com/ARWL2016/react-weather
 - Andrew Mead   
 - Section 8  
 
-**Technologies**
+**Technologies**  
 1. Express   
 2. React and React-Router    
 3. Foundation and Sass      
@@ -22,11 +22,11 @@ https://github.com/ARWL2016/react-weather
 - Webpack is key to configuring styles and scripts    
 - Testing is a key focus in this section      
 
-**Component Structure**
+**Component Structure**  
 / Main   
-  - Navigation  
+  c Navigation  
   ir. Timer   
   /countdown={Countdown}  
-    - Clock 
-    - CountdownForm   
+    c Clock 
+    c CountdownForm   
    
