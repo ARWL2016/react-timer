@@ -24,9 +24,9 @@ https://github.com/ARWL2016/react-weather
 
 **Component Structure**  
 / Main   
-  c Navigation  
-  ir. Timer   
-  /countdown={Countdown}  
-    c Clock 
-    c CountdownForm   
+- c Navigation  
+- ir. Timer   
+- /countdown={Countdown}  
+- - c Clock 
+- - c CountdownForm   
    
