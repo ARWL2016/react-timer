@@ -21,7 +21,8 @@ https://github.com/ARWL2016/react-weather
 - This app demonstrates a Foundation navbar     
 - Styles are written in modular form to match React components    
 - Webpack is key to configuring styles and scripts    
-- Testing is a key focus in this section      
+- Testing is a key focus in this section   
+- The TimerControl component is strictly speaking redundant - the Control function can be used by removing the if else condition   
 
 **Component Structure**  
 / Main   
